@@ -1,0 +1,447 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+@font-face{
+	font-family: 'Open Sans', sans-serif;
+}
+@font-face{
+	font-family: Perfume-Classic-Demo-Version;
+	src: url("../fonts/Perfume-Classic-Demo-Version.ttf");
+}
+
+.header__container{
+	height: 779px;
+	background-color: #f1e2df;
+	padding: 0;
+	margin-right: auto;
+	margin-left: auto;
+}
+	.header__subcontainer{
+		width: 1170px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+		.logo{
+			margin-top: 28px;
+			display: inline-block;
+			vertical-align: middle;
+			margin-right: 617px;
+		}
+
+		.social__media{
+			display: inline-block;
+			vertical-align: middle;
+		}
+		.circle {
+    		border: solid #d59397 1px;
+    		border-radius: 30px;
+    		display: inline-block;
+    		height: 50px;
+    		width: 50px;
+    		padding: 13px;
+    		color: #d59397;
+    		text-align: center;
+    		line-height: 1.5;
+    		margin-right: 20px;
+		}
+			.circle:hover{
+				background: #d59397;
+				color: white;
+			}
+		.welcome{
+			width: 920px;
+			margin-right: auto;
+			margin-left: auto;
+			display: inline-block;
+			vertical-align: middle;
+		}
+		.menu__nav{
+			display: inline-block;
+			list-style: none;
+			vertical-align: middle;
+			margin-left: 12px;
+			font-family: 'Open Sans', sans-serif;
+		}
+			.menu__link{
+				text-decoration: none;
+				color: #d59397;
+			}
+			.menu__item{
+				padding-bottom: 10px;
+				font-size: 18px;
+			}
+				.menu__item:hover{
+					font-weight: bolder;
+				}
+
+		.center{
+			margin-top: 150px;
+		}
+
+			.circle__two{
+				width: 10px; 
+     			height: 10px; 
+     			background: #d59397;
+     			border-radius: 30px;
+     			margin-bottom: 17px;
+			}
+
+
+			.mini__circles{
+				display: inline-block;
+				vertical-align: middle;
+				margin-left: 38px;
+			}
+
+			.logo__welcome{
+				width: 920px;
+			}
+
+			.proffesion{
+				margin-right: 30px;
+				display: inline-block;
+				vertical-align: middle;
+			}
+			.last__paragraph{
+				width: 585px;
+				margin-right: auto;
+				margin-left: auto;
+				margin-top: 145px;
+				color: #d59397;
+				font-family: 'Open Sans', sans-serif;
+			}
+
+			.parri{
+				margin: 0;
+			}
+		.main__container__one{
+    		height: 590px;
+    		background-image: url(../images/cover.png);
+    		background-attachment: fixed;
+    		background-size: cover;
+    		margin-right: auto;
+    		margin-left: auto;	
+		}
+
+		.photo{
+			height: 250px;
+			width: 250px;
+			display: inline-block;
+			vertical-align: middle;
+			margin-left: 70px;
+		}
+		.title{
+			font-family: Perfume-Classic-Demo-Version;
+			font-size: 45px;
+			color: white;
+			margin-top: 0;
+			padding-top: 50px;
+			font-weight: lighter;
+			width: 195px;
+			margin-left: auto;
+			margin-right: auto;
+			margin-bottom: 0;
+		}
+		.subtitle{
+			font-family: 'Open Sans', sans-serif;
+			width: 145px;
+			margin-left: auto;
+			margin-right: auto;
+			color: white;
+			margin-top: 0;
+			font-weight: lighter;
+		}
+
+		.main__subcontainer__one{
+			width: 1500px;
+			height: 590px;
+			background-color: #efb1b7;
+			margin-left: auto;
+			margin-right: auto;
+			color: white;
+			opacity: 0.94;
+}
+		}
+
+		.titlelito{
+			font-family: 'Open Sans', sans-serif;
+			font-weight: bold;
+			margin-bottom: 0;
+		}
+		.datos{
+			font-family: 'Open Sans', sans-serif;
+			font-weight: lighter;
+			margin-top: 15px;
+		}
+
+		.box{
+			display: inline-block;
+			text-align: center;
+			margin-right: 43px;
+		}
+		.boxix{
+			display: inline-block;
+			text-align: center;
+		}
+
+		.boxer{
+			    width: 658px;
+    			margin-right: auto;
+    			margin-left: auto;
+    			margin-top: 35px;
+    			text-align: center;
+    			display: inline-block;
+    			vertical-align: middle;
+		}
+		.big__boxer{
+			width: 985px;
+			margin-left: auto;
+			margin-right: auto;a
+		}
+
+		.middle__part{
+			width: 1014px;
+			margin-right: auto;
+			margin-left: auto;
+		}
+
+		.text{
+			text-align: right;
+			font-family: 'Open Sans', sans-serif;
+			font-size: 15px;
+			display: inline-block;
+			vertical-align: middle;
+		}
+
+		.button{
+			color: white;
+			background-color: #d59397;
+			border-color: white;
+			font-size: 25px;
+			text-align: center;
+		}
+		.mailto{
+			text-decoration: none;
+			color: white;
+			
+			}
+	.main__container__two{
+		background-color: #f1e2df;
+		height: 610px;
+	}
+
+	.e__mail{
+		width: 177px;
+    	margin-right: auto;
+    	margin-left: auto;
+    	text-align: center;
+    	margin-top: 50px;
+    	font-family: 'Open Sans', sans-serif;
+    	font-size: 20px;
+    	font-weight: bolder;
+    	text-decoration: underline;
+	}
+
+			.title__two{
+			font-family: Perfume-Classic-Demo-Version;
+			font-size: 45px;
+			color: #d59397;
+			margin-top: 0;
+			padding-top: 50px;
+			font-weight: lighter;
+			width: 195px;
+			margin-left: auto;
+			margin-right: auto;
+			margin-bottom: 0;
+		}
+
+		.subtitle__two{
+			font-family: 'Open Sans', sans-serif;
+			width: 145px;
+			margin-left: auto;
+			margin-right: auto;
+			color: #d59397;
+			margin-top: 0;
+			font-weight: lighter;
+		}
+
+		.main__container__three{
+    		height: 2000px;
+    		background-image: url(../images/cover.png);
+    		background-attachment: fixed;
+    		background-size: cover;
+    		margin-right: auto;
+    		margin-left: auto;	
+		}
+
+		.main__subcontainer__three{
+			width: 1500px;
+			height: 2000px;
+			background-color: #efb1b7;
+			margin-left: auto;
+			margin-right: auto;
+			color: white;
+			opacity: 0.94;
+		}
+		.title__three{
+			font-family: Perfume-Classic-Demo-Version;
+			font-size: 45px;
+			color: white;
+			margin-top: 0;
+			padding-top: 50px;
+			font-weight: lighter;
+			width: 195px;
+			margin-left: auto;
+			margin-right: auto;
+			margin-bottom: 0;
+		}
+		.subtitle__three{
+			font-family: 'Open Sans', sans-serif;
+			width: 145px;
+			margin-left: auto;
+			margin-right: auto;
+			color: white;
+			margin-top: 0;
+			font-weight: lighter;
+		}
+
+		.photos__work{
+			width: 390px;
+			display: inline-block;
+		}
+		.photo__work__two{
+			width: 738px;
+			height: 1080px;
+			display: inline-block;
+			vertical-align: top;
+		}
+
+		.work__box{
+			width: 1140px;
+			margin-right: auto;
+			margin-left: auto;
+		}
+
+		.nav__work{
+			list-style: none;
+			font-family: 'Open Sans', sans-serif;
+			text-align: center;
+			margin-top: 45px;
+		}
+		.work__item{
+			display: inline-block;
+			margin-right: 60px;
+			font-size: 18px;
+		}
+		.nav__work__two{
+			list-style: none;
+			font-family: 'Open Sans', sans-serif;
+			text-align: center;
+			margin-top: 10px;
+			margin-bottom: 45px;
+		}
+		.work__item__two{
+			display: inline-block;
+			margin-right: 60px;
+			font-size: 18px;
+		}
+		.work__link{
+			color: white;
+		}
+		.final__images{
+			display: inline-block;
+			vertical-align: top;
+		}
+
+
+
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0;
+	font-family: helvetica, sans-serif;
+
+}
+
+a{
+	color: inherit;
+}
+
+.container{
+	width: 1170px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.footer{
+	background-color: #212121;
+	color: #999999;
+}
+	.footer__primary{
+		display: flex;
+		justify-content: space-between;
+	}
+
+		.footer__primary__a {
+    		width: 444px;
+    		margin-right: auto;
+    		margin-left: auto;
+		}
+		.footer__primary__b{
+			display: flex;
+			justify-content: space-between;
+			width: 570px;
+		}
+	.footer__secondary{
+		display: flex;
+		justify-content: center;
+		margin-top: 60px;
+		}
+
+/* FORMULARIO */
+
+.contact__form{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	margin-top: 60px;
+}
+	.contact__form__field{
+	width: 200px;
+    background-color: transparent;
+    border: none;
+    border-bottom: solid 1px #d7a3a3;
+    color: inherit;
+    padding: 5px 10px;
+    outline: none;
+	}
+	.contact__form__field:focus{
+		color: #fff;
+		border-bottom-color: #fff; 
+	}
+	.contact__form__field--full{
+		width: 100%;
+	}
+	.contact__form__btn{
+		border: none;
+		background-color: transparent;
+		cursor: pointer;
+		color: inherit;
+	}
+
+	.programs{
+		width: 900px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.box__percent{
+		width: 1170px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 80px;
+	}
